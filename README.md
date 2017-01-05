@@ -1,2 +1,2 @@
-# website-test
-test for website project 
+# Personal website
+Working on my personal website. Improving it's content and features everyday. 
