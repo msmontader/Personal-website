@@ -1,0 +1,40 @@
+@import url(//fonts.googleapis.com/css?family=Lobster:400);
+body{
+  background-color: white;
+  color: white;
+  font-family: lobster;
+}
+.block{
+  background-color: black;
+  opacity: .4;
+  padding: 50px;
+  widht: 50%;
+  margin-right:auto;
+  margin-left:auto;
+  
+}
+h1 {
+  padding:0;
+  margin-top: 0;
+  text-align: center;
+  
+}
+.pageOne {
+background: url("https://i.imgsafe.org/03483cdbc0.jpg");
+  background-size: cover;
+  height: 800px;
+  
+  
+}
+.nav-pills{
+  font-family: 'Lobster', Arial;
+  background-color: black;
+  font-size: 1.8em;
+}
+ul {
+    
+}
+
+li {
+   
+}
