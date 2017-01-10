@@ -14,9 +14,10 @@ body{
   margin-top: 100px
   
 }
-.block1{
+.block2{
   padding: 50px;
-  widht: 50%;
+  width: 100px;
+  height: 100px;
   margin-right:200px;
   margin-left:200px;
   margin-bottom: 50px;
