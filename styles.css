@@ -6,7 +6,7 @@ body{
 }
 .block1{
   padding: 50px;
-  widht: 50%;
+  width: 50%;
   margin-right:200px;
   margin-left:200px;
   margin-bottom: 200px;
@@ -16,8 +16,8 @@ body{
 }
 .block2{
   padding: 50px;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   margin-right:200px;
   margin-left:200px;
   margin-bottom: 50px;
