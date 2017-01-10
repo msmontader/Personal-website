@@ -14,6 +14,15 @@ body{
   margin-top: 100px
   
 }
+.block1{
+  padding: 50px;
+  widht: 50%;
+  margin-right:200px;
+  margin-left:200px;
+  margin-bottom: 50px;
+  margin-top: 50px
+  
+}
 .btn-default{
   background-color: black;
   border-color: black;
