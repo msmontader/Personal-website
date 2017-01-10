@@ -6,39 +6,31 @@ body{
 }
 .block1{
   padding: 50px;
-  width: 50%;
+  widht: 50%;
   margin-right:200px;
   margin-left:200px;
-  margin-bottom: 200px;
   border-radius: 50%;
-  margin-top: 100px
-  
-}
-.block2{
-  padding: 50px;
-  width: 200px;
-  height: 200px;
-  margin-right:200px;
-  margin-left:200px;
-  margin-bottom: 50px;
-  margin-top: 50px
+  margin-top: 100px;
   
 }
 .btn-default{
   background-color: black;
   border-color: black;
   color: white;
-  font-size: 600%;
 }
 h1 {
   font-size: 5.0em;
   padding:0;
   margin-top: 0;
   text-align: center;
-  opacity: 1.0;
   color: white;
-  
+ 
+  }
+h1 span {
+  color: white;
+  font-family: times;
 }
+
 .pageOne {
 background: url("https://i.imgsafe.org/03483cdbc0.jpg");
 background-size: cover;
@@ -53,12 +45,10 @@ padding-bottom: 10%;
 .pageTwo{
   background: url("https://i.imgsafe.org/4264748617.jpg");
   padding-top: 3%;
-  margin-bottom: -70%;
 }
-h2{
+h2 span{
   font-family: arial;
   font-size: 50px;
-  opacity: 1.0;
   color: white;
 }
 p{
@@ -72,9 +62,16 @@ p{
 }
 .resume{
   font-family: "Times New Roman", Times;
-  background-color: #A9A5A9;
+  background-color: #A9A1A9;
   margin-top: 150px;
+  font-size: 600px;
+  color: white;
 }
 .page3{
   background-color: black;
+}
+.custom{
+  color:black;
+  font-family: times;
+  
 }
