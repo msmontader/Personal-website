@@ -71,8 +71,11 @@ p span{
   font-size: 600px;
   color: white;
 }
-.page3{
-  background-color: black;
+.pageThree{
+  background-color: white;
+  background-size: cover;
+  padding-bottom: 10%;
+  padding-top: 20%;
 }
 .custom{
   color:black;
