@@ -79,3 +79,20 @@ p{
 .full-page {
     width:100%;
 }
+.header-col{
+  margin-right: 70%;
+}
+#hr-education{
+  border-width: 2px;
+  border-color: blue;
+  margin-left: 115px;
+  margin-right: 115px;
+  border-style: inset;
+  display: block;
+}
+.education{
+  margin-top: 5%;
+}
+.university{
+  margin-top:5%;
+}
