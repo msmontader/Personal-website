@@ -120,12 +120,14 @@ p span{
   margin-right: 70%;
 }
 #hr-education{
-  border-width: 2px;
-  border-color: blue;
   margin-left: 115px;
   margin-right: 115px;
   border-style: inset;
   display: block;
+  border-width: 2px;
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
 }
 .education{
   margin-top: 5%;
