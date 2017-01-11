@@ -6,7 +6,7 @@ body{
 }
 .block1{
   padding: 50px;
-  widht: 50%;
+  width: 50%;
   margin-right:200px;
   margin-left:200px;
   border-radius: 50%;
@@ -75,6 +75,7 @@ p span{
   background-color: white;
   background-size: cover;
   padding-bottom: 10%;
+  
 }
 .custom{
   color:black;
