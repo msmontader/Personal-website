@@ -92,6 +92,7 @@ p span{
 .myImage{
   height:400px;
   border-radius: 60%;
+  margin-top: 3%;
 }
 .resume{
   font-family: "Times New Roman", Times;
