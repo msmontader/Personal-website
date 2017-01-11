@@ -1,3 +1,4 @@
+$(document).ready(function() {
 document.getElementsByTagName("h1")[0].style.fontSize = "80px";
     vpw = $(window).width();
     vph = $(window).height();
@@ -5,3 +6,4 @@ document.getElementsByTagName("h1")[0].style.fontSize = "80px";
     $('.full-page').height(vph);
 $('.pageTwo').css('min-height', '100%');
 $('.pageThree').css('min-height', '100%');
+});
