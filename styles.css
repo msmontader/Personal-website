@@ -140,3 +140,16 @@ p span{
 .university{
   margin-top:5%;
 }
+.pageFour{
+  background-color: white;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 8%;
+  width: 100%;
+}
+.lab{
+  margin-left:32%;
+}
+.friends{
+  margin-left: 15%;
+}
